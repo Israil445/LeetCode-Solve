@@ -24,4 +24,4 @@ This repository contains solutions to common LeetCode problems, implemented in v
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Israil445/LeetCodeSolve/
+   git clone https://github.com/Israil445/LeetCode-Solve
